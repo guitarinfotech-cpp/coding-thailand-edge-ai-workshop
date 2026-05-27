@@ -1,11 +1,11 @@
 <!-- workshop-header -->
 <img width="1347" height="127" alt="Coding Thailand 2026 header" src="https://github.com/user-attachments/assets/ba5cf267-f460-4fb0-b69b-c461ae061a3b" />
 
-# 📦 Equipment Checklist
+# 📦 Equipment Checklist (สำหรับครู/ผู้จัด)
 
-> เปิดหน้านี้ก่อนเริ่ม setup เช็กกันว่าทีมเราได้อุปกรณ์, account และ software ครบพร้อมเริ่ม lab แล้ว
+> ใช้หน้านี้เตรียมห้อง, อุปกรณ์ และ account ให้พร้อมก่อนเริ่ม workshop
 
-## ของที่ควรมีบนโต๊ะของทีม
+## ของที่ต้องแจกให้แต่ละทีม
 
 ### Hardware หลัก (1 ชุด/ทีม)
 
@@ -29,20 +29,20 @@
 - [ ] USB Microphone — Track D
 - [ ] USB Hub (powered) — เพราะ UNO Q ต้องเสียบหลายอย่าง
 
-## ของใช้ร่วมในห้องที่ควรรู้ว่ามี
+## ของใช้ร่วมในห้อง
 
 - [ ] Projector + HDMI
 - [ ] Wi-Fi เร็วพอสำหรับ 20 ทีม upload data ไป Edge Impulse Studio พร้อมกัน
 - [ ] Power strip (UNO Q + Laptop กินไฟพอควร)
 
-## บัญชีและ software ที่ทีมควรพร้อม
+## บัญชีและ software ที่ควรเตรียมล่วงหน้า
 
 - [ ] บัญชี **GitHub** ของสมาชิกหรือของทีม
 - [ ] บัญชี **Edge Impulse** ของทีม (Free tier พอ)
 - [ ] **Arduino App Lab** ติดตั้งบน laptop ของทีม
 - [ ] **VS Code** (ทางเลือก) + Git extension
 
-## ก่อนเริ่มเก็บข้อมูล ให้เช็ก 5 อย่างนี้
+## Pre-Flight Test สำหรับครู/TA
 
 - [ ] Boot UNO Q ได้ครั้งแรก
 - [ ] เชื่อม Wi-Fi ได้
@@ -50,15 +50,18 @@
 - [ ] เปิด Arduino App Lab และอ่าน sensor หรือเช็กอุปกรณ์ได้อย่างน้อย 1 ตัว
 - [ ] สร้าง repo ทีมและ push commit แรกขึ้น GitHub ได้
 
-## ถ้าทีมเรายังได้ของไม่ครบ
+## จุดที่ควรเช็กก่อนปล่อยเริ่ม lab
 
-- เช็กจากรายการด้านบนแล้วบอก TA ให้ชัดว่าขาดอะไร
-- ถ้าทีมเลือก Track B หรือ Track D ให้บอก track ที่เลือกไปพร้อมกัน เพื่อรับอุปกรณ์เพิ่มให้ถูก
-- ถ้า login ได้ไม่ครบ ให้เริ่มจาก GitHub และ Edge Impulse ก่อน เพราะ 2 อย่างนี้ต้องใช้ทันทีในช่วงเช้า
+- [ ] ทุกทีมได้ของครบตาม track ที่เลือก
+- [ ] Track B มี webcam ครบ
+- [ ] Track D มี microphone ครบ
+- [ ] ทีม login GitHub และ Edge Impulse ได้
+- [ ] ทีมสร้าง repo แรกและพร้อมเริ่มเก็บข้อมูล
 
-## สิ่งที่ควรพร้อมก่อนลุกไปเริ่ม lab
+## สำรองเผื่อปัญหาหน้างาน
 
-- [ ] ของบนโต๊ะครบตาม track ที่เลือก
-- [ ] บอร์ดเปิดติดและเชื่อมต่อได้
-- [ ] GitHub repo ทีมพร้อมใช้งาน
-- [ ] Edge Impulse project พร้อมรับ data
+- [ ] UNO Q สำรองอย่างน้อย 2 ตัว
+- [ ] Modulino สำรองอย่างน้อย 1 ชุด
+- [ ] USB-C cable / power adapter สำรอง
+- [ ] USB Hub สำรองสำหรับ Track B และ Track D
+- [ ] Mobile hotspot หรือ Wi-Fi สำรอง

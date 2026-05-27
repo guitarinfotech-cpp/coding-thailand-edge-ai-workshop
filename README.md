@@ -103,6 +103,7 @@ coding-thailand-edge-ai-workshop/
 3. ใช้ [docs/03-rubric.md](docs/03-rubric.md) เป็นเกณฑ์ประเมินกลาง
 
 ไฟล์ที่เป็นมุมมองครู/วิทยากรโดยตรง:
+- [docs/00-equipment-checklist.md](docs/00-equipment-checklist.md)
 - [slides/day1-outline.md](slides/day1-outline.md)
 - [labs/anchor-demo/README.md](labs/anchor-demo/README.md)
 
