@@ -3,21 +3,17 @@
 
 # 🎨 Day 1 Teaching Slides
 
-> **25 สไลด์พร้อมใช้สำหรับ Day 1** — ใช้กับช่วง opening (09:00-09:30) และช่วง transition ตลอดวัน
->
-> คัดลอกหัวข้อและข้อความแต่ละบล็อกไปวางใน Canva/PowerPoint/Google Slides ได้ทันที
-
----
 
 ## 📑 Section 1: Opening — 09:00-09:15
 
-### Title
 **Coding Thailand 2026 — Edge AI Workshop**
 *Arduino UNO Q × Modulino × Edge Impulse*
 
-- ชื่อ session / ชื่อผู้นำช่วง
-- โลโก้ DEPA, Coding Thailand
-- วันที่
+<img src="../assets/mentor-sanchaieardprab.jpeg" alt="Mentor portrait of ผศ.ดร.สัญชัย เอียดปราบ" width="240" align="right" />
+
+- Mentor: ผศ.ดร.สัญชัย เอียดปราบ
+- วิศวกรรมระบบสมองกลฝังตัวและอิเล็กทรอนิกส์สื่อสาร
+- วันที่ 28 พฤษภาคม 2569
 
 ---
 
