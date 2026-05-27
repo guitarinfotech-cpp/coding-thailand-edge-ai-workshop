@@ -59,6 +59,8 @@ coding-thailand-edge-ai-workshop/
 │   ├── W3-prediction-log.md
 │   └── W4-idea-canvas.md
 ├── labs/                              ← Lab manual แต่ละ track
+│   ├── README.md                      ← ทางเข้า lab ทั้งหมด
+│   ├── common/                        ← คู่มือกลางที่ใช้ทุก track
 │   ├── anchor-demo/                   ← Gesture Wand (demo เปิด)
 │   ├── track-a-motion/                ← Motion classification
 │   ├── track-b-vision/                ← Vision classification
@@ -80,7 +82,7 @@ coding-thailand-edge-ai-workshop/
 2. เลือก [Track ของทีม](docs/02-tracks.md) ให้เหมาะกับเวลาที่มีและความถนัดของทีม
 3. เรียน [Git พื้นฐาน 15 นาที](docs/04-git-basics.md) ถ้ายังไม่คล่อง Git/GitHub
 4. สร้าง repo ทีมใหม่จาก [Team Repo Template](templates/team-repo-template/)
-5. ทำตาม lab manual ของ track ที่เลือก
+5. เปิด [Labs Overview](labs/README.md) แล้วทำตาม lab manual ของ track ที่เลือก
 
 เริ่มจากคัดลอกไฟล์ในโฟลเดอร์ template ไปใส่ repo ใหม่ของทีมบน GitHub แล้วค่อย clone repo นั้นลงเครื่อง
 
