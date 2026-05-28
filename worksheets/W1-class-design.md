@@ -15,7 +15,7 @@
   - Hacker: ภาณุ สมพลกรัง
   - Hipster: ชินพัฒน์ สุทธหลวง
   - Hustler: นภัทร เงินงาม
-- **Track ที่เลือก:** ☑ A (Motion)  ☐ B (Vision)  ☐ C (Environment)  ☐ D (Audio)
+- **Track ที่เลือก:** ☐ A (Motion)  ☐ B (Vision)  ☐ C (Environment)  ☐ D (Audio)
 - **ระดับความท้าทาย:** ☐ Basic  ☐ Intermediate  ☐ Advanced
 
 ---
